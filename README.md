@@ -1,8 +1,6 @@
 # epa-public-water-arsenic
 <b>Public water arsenic concentrations in counties and community water systems  across the United States, 2006-2011</b>
 
-Arsenic in US correctional facility drinking water, 2006-2011
-
 <b>Introduction:</b>
 <u>Background:</u> The US Environmental Protection Agency’s (EPA) Final Arsenic Rule (2006) lowered the arsenic maximum contaminant level (MCL) from 50 to 10 µg/L for public water systems. We used the EPA’s 2006-2011 Six Year Review of Contaminant Occurrence Database to compare community water system (CWS) arsenic concentrations during (2006-2008) versus after (2009-2011) initial monitoring for compliance with the MCL. Our objective was to characterize differences in CWS drinking water arsenic exposure across sociodemographic subgroups in the US. 
 <u>Methods:</> We estimated three-year average arsenic concentrations for 36,406 CWSs (98%) and 2,740 counties (87%) across the US and compared means, mean differences, and percentiles in water arsenic concentrations (via quantile regression) for the entire US, and by region and sociodemographic categories. We categorized CWSs and counties relative to the 10 µg/L MCL (High if above the MCL; Low if below) for each three-year period. 
