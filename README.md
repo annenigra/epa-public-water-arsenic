@@ -14,4 +14,4 @@
 <b>Discussion:</b> Larger absolute declines in CWS arsenic concentrations at higher water arsenic quantiles indicate declines are related to MCL implementation. CWSs reliant on groundwater, serving smaller populations, located in the Southwest, and serving Hispanic communities were more likely to continue exceeding the arsenic MCL, raising environmental justice concerns. These estimates of public drinking water arsenic exposure at the county- and CWS-level can enable further surveillance and epidemiologic research, including assessing if differential declines in water arsenic exposure resulted in differential declines in arsenic-associated disease.
 <br>
 
-This code recreates the analysis published in <i>JournalName</i> in (citation).
+This code recreates the analysis published in <i>Environmental Health Perspectives</i> in December 2020.
